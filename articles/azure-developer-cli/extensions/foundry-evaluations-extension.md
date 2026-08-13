@@ -1,8 +1,8 @@
 ---
 title: Microsoft Foundry evaluations extension overview
 description: Learn about the Microsoft Foundry evaluations extension, which lets you define, run, and inspect Microsoft Foundry evaluations from your terminal.
-author: alexwolfmsft
-ms.author: alexwolf
+author: m7md7sien
+ms.author: mohessie
 ms.date: 08/13/2026
 ms.service: azure-dev-cli
 ms.topic: overview
