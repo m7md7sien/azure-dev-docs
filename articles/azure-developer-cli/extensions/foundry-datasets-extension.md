@@ -57,6 +57,11 @@ This article introduces the extension. For dataset concepts and how evaluations 
     azd ai dataset update my-dataset --from-file ./data/rows.jsonl
     ```
 
+    > [!TIP]
+    > A dataset takes a moment to become listable after it is registered. If
+    > `update` reports that the dataset does not exist immediately after
+    > `create`, run it again.
+
 1. See what is registered, and what versions a dataset has:
 
     ```azdeveloper
