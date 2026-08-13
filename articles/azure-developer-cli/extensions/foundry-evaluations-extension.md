@@ -16,9 +16,6 @@ The Azure Developer CLI (`azd`) Microsoft Foundry evaluations extension (`azure.
 
 This article introduces the extension. For evaluation concepts, metrics, and guidance on choosing evaluators, see the [Microsoft Foundry documentation](/azure/ai-foundry/).
 
-> [!NOTE]
-> `azd` extensions are currently in beta.
-
 ## Key features
 
 | Feature | Description |

@@ -16,9 +16,6 @@ The Azure Developer CLI (`azd`) Microsoft Foundry datasets extension (`azure.ai.
 
 This article introduces the extension. For dataset concepts and how evaluations consume them, see the [Microsoft Foundry documentation](/azure/ai-foundry/).
 
-> [!NOTE]
-> `azd` extensions are currently in beta.
-
 ## Key features
 
 | Feature | Description |
