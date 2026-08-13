@@ -1,7 +1,7 @@
 ---
 title: Microsoft Foundry datasets extension overview
 description: Learn about the Microsoft Foundry datasets extension, which lets you register and manage versioned Microsoft Foundry datasets from your terminal.
-author: mohessie
+author: m7md7sien
 ms.author: mohessie
 ms.date: 08/13/2026
 ms.service: azure-dev-cli
